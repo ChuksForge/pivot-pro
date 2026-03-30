@@ -89,6 +89,7 @@ pivot-pro/
 ├── pivot_pro.py    # Core agent (CLI + logic)
 ├── ui.py           # Gradio web UI
 ├── requirements.txt
+├── demo
 └── README.md
 ```
 
@@ -101,6 +102,14 @@ pivot-pro/
 - Gradio (optional UI)
 
 ---
+
+## Author
+
+Built by **[ChuksForge]**
+
+- Portfolio: chuksforge.github.io
+- GitHub: [github.com/ChuksForge](https://github.com/ChuksForge)
+- Email: chuksprompts@gmail.com
 
 ## License
 
